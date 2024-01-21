@@ -6,3 +6,10 @@ Project for learning django and python. Built for use at my shop, it helps me tr
 2. Django: Is a python based fullstack framework for building web applications.
 3. Bootstrap 5: Is used to provide the UI theme.
 
+## Features to be implelemented.
+1. create a product and service.
+2. track inventory levels
+3. create customers.
+4. create and track sales orders.
+5. Assign roles to different users.
+
